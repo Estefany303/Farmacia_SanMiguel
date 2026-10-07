@@ -1,0 +1,7 @@
+Farmacia San Miguel - sitio multipágina
+
+Abre index.html para iniciar. Las imágenes están guardadas en la carpeta imagenes y funcionan sin conexión. Los archivos CSS y JavaScript están en sus carpetas correspondientes.
+
+Nota: Bootstrap y Bootstrap Icons siguen enlazados a CDN para el diseño y los iconos; las imágenes sí son locales.
+
+IMAGENES LOCALES: La carpeta imagenes contiene ilustraciones SVG incluidas en el proyecto. No dependen de servicios de imágenes externos y funcionan sin conexión.

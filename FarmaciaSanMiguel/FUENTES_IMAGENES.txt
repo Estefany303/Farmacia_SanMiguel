@@ -1,0 +1,28 @@
+FUENTES DE LAS IMÁGENES REALES
+Las imágenes del sitio fueron sustituidas por fotografías reales alojadas en Wikimedia Commons.
+Se usan URLs directas de los archivos para que el sitio pueda mostrarlas desde GitHub Pages.
+
+1. Paracetamol: https://commons.wikimedia.org/wiki/File:Paracetamol_acetaminophen_500_mg_pills.jpg
+   Licencia: CC BY 2.0. Autor: Michelle Tribe.
+2. Vitamina C: https://commons.wikimedia.org/wiki/File:Vitamin_C_Tablets.jpg
+   Licencia: CC BY-SA 4.0. Autor: Daniel Abugre Anyorigya.
+3. Gel antibacterial: https://commons.wikimedia.org/wiki/File:Clorox_Hand_Sanitizer_Gel.jpg
+   Licencia: CC BY-SA 4.0. Autor: TaurusEmerald.
+4. Pañales: https://commons.wikimedia.org/wiki/File:Baby_diaper.jpg
+5. Ibuprofeno: https://commons.wikimedia.org/wiki/File:Amneal_Pharmaceuticals_ibuprofen_tablets.jpg
+6. Medicamentos/frasco: https://commons.wikimedia.org/wiki/File:Medicine_bottles.jpg
+   Licencia: CC BY-SA 4.0. Autor: Baomi.
+7. Protector solar: https://commons.wikimedia.org/wiki/File:Applying_sunscreen.jpg
+   Dominio público / National Cancer Institute.
+8. Crema hidratante: https://commons.wikimedia.org/wiki/File:Moisturizing_cream.jpg
+   Licencia: CC BY-SA 3.0. Autor: Сергей Михель.
+9. Farmacéutico: https://commons.wikimedia.org/wiki/File:Pharmacist.jpg
+   Dominio público / National Cancer Institute.
+10. Farmacia: https://commons.wikimedia.org/wiki/File:Pharmacy.jpg
+   Licencia: CC BY-SA.
+11. Estantes de cuidado personal: https://commons.wikimedia.org/wiki/File:Skin_care_cosmetics.jpg
+   Licencia: CC0 (dominio público).
+
+
+CAMBIO SOLICITADO (06-10-2026):
+- La imagen principal del inicio ahora usa la fotografía local `imagenes/farmacia-san-miguel-real.png`, que muestra la fachada de Farmacia San Miguel.
